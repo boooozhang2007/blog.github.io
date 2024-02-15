@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://blog.saop.cc/link/</loc>
+    
+    <lastmod>2024-02-15</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://blog.saop.cc/reward/</loc>
     
     <lastmod>2024-02-15</lastmod>
@@ -68,15 +77,6 @@
     <loc>https://blog.saop.cc/p/2b98/</loc>
     
     <lastmod>2023-12-31</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.saop.cc/link/</loc>
-    
-    <lastmod>2023-12-09</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
