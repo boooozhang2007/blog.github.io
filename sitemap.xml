@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://blog.saop.cc/link/</loc>
+    <loc>https://blog.saop.cc/reward/</loc>
     
     <lastmod>2024-02-15</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>https://blog.saop.cc/reward/</loc>
+    <loc>https://blog.saop.cc/link/</loc>
     
     <lastmod>2024-02-15</lastmod>
     
@@ -1142,13 +1142,6 @@
   </url>
   
   <url>
-    <loc>https://blog.saop.cc/categories/%E6%B8%B8%E6%88%8F/</loc>
-    <lastmod>2024-02-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://blog.saop.cc/categories/%E6%8A%80%E6%9C%AF/</loc>
     <lastmod>2024-02-15</lastmod>
     <changefreq>weekly</changefreq>
@@ -1157,6 +1150,13 @@
   
   <url>
     <loc>https://blog.saop.cc/categories/%E8%BD%AC%E8%BD%BD/</loc>
+    <lastmod>2024-02-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.saop.cc/categories/%E6%B8%B8%E6%88%8F/</loc>
     <lastmod>2024-02-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
