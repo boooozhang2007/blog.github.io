@@ -1,3 +1,4 @@
+https://blog.saop.cc/manifest.json
 https://blog.saop.cc/about/
 https://blog.saop.cc/movie/
 https://blog.saop.cc/p/3a1f/
@@ -12,7 +13,6 @@ https://blog.saop.cc/p/d9c4/
 https://blog.saop.cc/p/4727/
 https://blog.saop.cc/p/2b98/
 https://blog.saop.cc/p/7d0c/
-https://blog.saop.cc/manifest.json
 https://blog.saop.cc/img/siteicon/README
 https://blog.saop.cc/p/5f79/
 https://blog.saop.cc/p/1cf1/
