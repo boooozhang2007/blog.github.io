@@ -15,8 +15,35 @@
     <atom:link href="https://blog.saop.cc/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>LINK START!</description>
-    <pubDate>Mon, 13 May 2024 03:26:30 GMT</pubDate>
+    <pubDate>Fri, 31 May 2024 15:59:59 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>Minecraft 我的世界 15 周年骨折价补票入正</title>
+      <link>https://blog.saop.cc/p/3403/</link>
+      <guid>https://blog.saop.cc/p/3403/</guid>
+      <pubDate>Fri, 31 May 2024 15:59:59 GMT</pubDate>
+      
+      <description>Minecraft 我的世界 15 周年打骨折的价格让我补票入正</description>
+      
+      
+      
+      <content:encoded><![CDATA[<p>从 <code>2009</code> 到现在的 <code>2024</code> 年，我的世界 <code>Minecraft</code> 终于达到了 15 周年！</p><p>没入正白嫖了好一段时间的我看到了这次打骨折的价格后，补票入正 <code>Minecraft</code> 的想法突然就产生了…</p><h2 id="0x0001"><a class="markdownIt-Anchor" href="#0x0001"></a> 0x0001</h2><p><img src="https://markdown-picbed.saop.cc/img/202405312341172.webp" alt="MC15周年骨折价" /></p><p>豪华版 <code>59.50</code>，普通版 <code>44.50</code>，真是打骨折了，此时不入更待何时？！</p><h2 id="0x0002"><a class="markdownIt-Anchor" href="#0x0002"></a> 0x0002</h2><p>从 <a href="https://minecraft.net">Minecraft</a> 官网购买时遭遇了国家与区域限制问题，</p><p><img src="https://markdown-picbed.saop.cc/img/202405312354058.webp" alt="更改国家或地区跳过限制" /></p><p>通过更改 Microsoft 帐户 &gt; 您的信息 &gt; 个人资料信息 &gt; 国家或地区 为其他国家以跳过限制后又出现了别的问题，真是奇怪…</p><h2 id="0x0003"><a class="markdownIt-Anchor" href="#0x0003"></a> 0x0003</h2><p><img src="https://markdown-picbed.saop.cc/img/202406010009163.webp" alt="购入订单" /></p><p>挣扎了一段时间后还是无果，所以无奈只能从 Microsoft Store 微软商店上使用支付宝购入了，感觉差价不多，所以就直接入了豪华版</p>]]></content:encoded>
+      
+      
+      <category domain="https://blog.saop.cc/categories/%E6%B8%B8%E6%88%8F/">游戏</category>
+      
+      
+      <category domain="https://blog.saop.cc/tags/%E8%A1%A5%E7%A5%A8/">补票</category>
+      
+      <category domain="https://blog.saop.cc/tags/%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C/">我的世界</category>
+      
+      <category domain="https://blog.saop.cc/tags/Minecraft/">Minecraft</category>
+      
+      
+      <comments>https://blog.saop.cc/p/3403/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>在 Hexo 框架的 NexT 与 Butterfly 主题上使用 CDN 方式引入安装 Live2D 看板娘</title>
@@ -1330,7 +1357,7 @@
       <content:encoded><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="quick-start"><a class="markdownIt-Anchor" href="#quick-start"></a> Quick Start</h2><h3 id="create-a-new-post"><a class="markdownIt-Anchor" href="#create-a-new-post"></a> Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="run-server"><a class="markdownIt-Anchor" href="#run-server"></a> Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="generate-static-files"><a class="markdownIt-Anchor" href="#generate-static-files"></a> Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="deploy-to-remote-sites"><a class="markdownIt-Anchor" href="#deploy-to-remote-sites"></a> Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content:encoded>
       
       
-      <category domain="https://blog.saop.cc/categories/%E6%87%92%E5%BE%97%E5%88%86%E7%B1%BB/">懒得分类</category>
+      <category domain="https://blog.saop.cc/categories/%E7%A9%BA%E5%80%BC/">空值</category>
       
       
       <category domain="https://blog.saop.cc/tags/Hexo/">Hexo</category>
